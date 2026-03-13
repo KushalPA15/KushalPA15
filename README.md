@@ -37,6 +37,10 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 
 ![](https://github-profile-trophy.vercel.app/?username=KushalPA15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=KushalPA15&theme=radical)
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
