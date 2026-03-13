@@ -39,6 +39,4 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=KushalPA15&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
