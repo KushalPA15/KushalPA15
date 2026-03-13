@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Engineer;Open+Source+Contributor">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Developer;Front+End+Developer">
 </p>
 
 ## 🚀 About Me
