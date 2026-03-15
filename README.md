@@ -38,5 +38,9 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 ![](https://github-profile-trophy.vercel.app/?username=KushalPA15&theme=radical)
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
