@@ -12,7 +12,7 @@
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and Full Stack Development
 
-📚 Currently learning advanced AI models and scalable applications
+📚 Currently learning Advanced AI Models and Scalable Applications
 
 💡 Building projects using Python, Machine Learning, and Modern Web Technologies
 
@@ -40,46 +40,53 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🤖 AI Resume Analyzer
-
-An AI-powered application that analyzes resumes and provides improvement suggestions using Machine Learning and NLP.
+AI-powered application that analyzes resumes and provides improvement suggestions using Machine Learning and NLP.
 
 ### 🎤 AI Mock Interview System
-
-An AI-based interview simulator that asks technical questions and evaluates responses to help users prepare for real interviews.
+An AI-powered interview simulator that asks technical questions and evaluates responses.
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalPA15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalPA15&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=KushalPA15&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KushalPA15&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalPA15&theme=tokyonight"/>
 
 </p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 # 🏆 GitHub Trophies
 
@@ -89,10 +96,18 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 
 ---
 
-## 📈 Profile Views
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KushalPA15&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -106,5 +121,5 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 ---
 
 <h3 align="center">
-⭐ If you like my projects, consider giving them a star!
+⭐ Thanks for visiting my profile! If you like my work, consider giving my repositories a ⭐.
 </h3>
