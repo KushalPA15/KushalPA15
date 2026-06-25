@@ -65,23 +65,21 @@ An AI-based interview simulator that asks technical questions and evaluates resp
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KushalPA15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalPA15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=KushalPA15&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=KushalPA15&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
