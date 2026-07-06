@@ -137,19 +137,17 @@ Computer Science Student | AI • ML • Web Development
 
 ## 📊 Data Science
 
-<table align="center">
+<table>
 <tr>
-
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=numpy" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>
 <sub><b>NumPy</b></sub>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pandas" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>
 <sub><b>Pandas</b></sub>
 </td>
-
 </tr>
 </table>
 
