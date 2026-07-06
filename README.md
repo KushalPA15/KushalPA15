@@ -12,7 +12,7 @@ Computer Science Student | AI • ML • Web Development
 
 # 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student
+- 🎓 Final Year Computer Science Student
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🌐 Passionate about Full Stack Development
 - 💻 Solving DSA Problems in C++
@@ -47,43 +47,144 @@ Computer Science Student | AI • ML • Web Development
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+<table align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js&theme=dark"/>
-</p>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
+<sub><b>C++</b></sub>
+</td>
 
-## 🎨 Frontend
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<sub><b>C</b></sub>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark"/>
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<sub><b>Python</b></sub>
+</td>
 
-## 🗄️ Database
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<sub><b>Java</b></sub>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+</tr>
 
-## 🤖 AI / Machine Learning
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<sub><b>HTML5</b></sub>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<sub><b>CSS3</b></sub>
+</td>
 
-## 📊 Data Science
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+<sub><b>Tailwind</b></sub>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark"/>
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<sub><b>React</b></sub>
+</td>
 
-## 🛠️ Tools
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>
+<sub><b>Bootstrap</b></sub>
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
-</p>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<sub><b>Node.js</b></sub>
+</td>
 
----
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
+<sub><b>Express</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
+<sub><b>MongoDB</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/><br>
+<sub><b>Firebase</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+<sub><b>TensorFlow</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br>
+<sub><b>OpenCV</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=numpy" width="55"/><br>
+<sub><b>NumPy</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=pandas" width="55"/><br>
+<sub><b>Pandas</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/><br>
+<sub><b>Scikit-learn</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postman" width="55"/><br>
+<sub><b>Postman</b></sub>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+<sub><b>Linux</b></sub>
+</td>
+</tr>
+
+</table>
 
 # 🚀 Featured Projects
 
