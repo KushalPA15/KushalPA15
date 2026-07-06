@@ -44,35 +44,29 @@ Computer Science Student | AI • ML • Web Development
 </p>
 
 ---
-
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>
 <sub><b>C++</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=c" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=c" width="45"/><br>
 <sub><b>C</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="60"/><br>
-<sub><b>Java</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="60"/><br>
+<td  width="90">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
 <sub><b>Python</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
 <sub><b>JavaScript</b></sub>
 </td>
 </tr>
@@ -82,22 +76,17 @@ Computer Science Student | AI • ML • Web Development
 
 ## 🌐 Web Development
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
 <sub><b>HTML5</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="60"/><br>
+<td  width="90">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
 <sub><b>CSS3</b></sub>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>
-<sub><b>Tailwind CSS</b></sub>
 </td>
 
 </tr>
@@ -107,11 +96,11 @@ Computer Science Student | AI • ML • Web Development
 
 ## 🗄️ Database
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
 <sub><b>MySQL</b></sub>
 </td>
 
@@ -122,11 +111,11 @@ Computer Science Student | AI • ML • Web Development
 
 ## 🤖 AI / Machine Learning
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/><br>
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>
 <sub><b>TensorFlow</b></sub>
 </td>
 
@@ -139,15 +128,17 @@ Computer Science Student | AI • ML • Web Development
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br>
+
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
 <sub><b>NumPy</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br>
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
 <sub><b>Pandas</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -155,21 +146,21 @@ Computer Science Student | AI • ML • Web Development
 
 ## 🛠️ Tools & Version Control
 
-<table align="center">
+<table>
 <tr>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
 <sub><b>Git</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="60"/><br>
+<td width="90">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
 <sub><b>GitHub</b></sub>
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
 <sub><b>VS Code</b></sub>
 </td>
 
