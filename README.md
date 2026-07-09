@@ -51,25 +51,27 @@ Computer Science Student | AI • ML • Web Development
 
 <table>
 <tr>
-<td width="90" align="center">
+
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>
-<b>C++</b>
+<sub><b>C++</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=c" width="45"/><br>
-<b>C</b>
+<sub><b>C</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-<b>Python</b>
+<sub><b>Python</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=js" width="45"/><br>
-<b>JavaScript</b>
+<sub><b>JavaScript</b></sub>
 </td>
+
 </tr>
 </table>
 
@@ -80,14 +82,14 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=html" width="45"/><br>
-<b>HTML5</b>
+<sub><b>HTML5</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br>
-<b>CSS3</b>
+<sub><b>CSS3</b></sub>
 </td>
 
 </tr>
@@ -100,9 +102,9 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
-<b>MySQL</b>
+<sub><b>MySQL</b></sub>
 </td>
 
 </tr>
@@ -115,9 +117,9 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>
-<b>TensorFlow</b>
+<sub><b>TensorFlow</b></sub>
 </td>
 
 </tr>
@@ -130,14 +132,14 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
-<b>NumPy</b>
+<sub><b>NumPy</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
-<b>Pandas</b>
+<sub><b>Pandas</b></sub>
 </td>
 
 </tr>
@@ -150,19 +152,19 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-<b>Git</b>
+<sub><b>Git</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-<b>GitHub</b>
+<sub><b>GitHub</b></sub>
 </td>
 
-<td width="90" align="center">
+<td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
-<b>VS Code</b>
+<sub><b>VS Code</b></sub>
 </td>
 
 </tr>
@@ -191,7 +193,7 @@ Computer Science Student | AI • ML • Web Development
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/KushalPA15/KushalPA15/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/KushalPA15/KushalPA15/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -231,7 +233,9 @@ Computer Science Student | AI • ML • Web Development
 # 👀 Profile Views
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -239,13 +243,19 @@ Computer Science Student | AI • ML • Web Development
 # ✨ Quote of the Day
 
 <p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
-<br><br>
+
+<br>
+
 If you like my projects, consider giving them a ⭐
+
 </h3>
