@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Kushal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=AI+Developer;Machine+Learning+Enthusiast;Front-End+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=AI+Developer;Machine+Learning+Enthusiast;Front-End+Developer;Always+Learning+New+Things"/>
 </p>
 
 <h3 align="center">
-Computer Science Student | AI • ML • Web Development
+Computer Science Student • AI • Machine Learning • Web Development
 </h3>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Final Year Computer Science Student
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌐 Passionate about Full Stack Development
-- 💻 Solving DSA Problems in C++
-- 📚 Currently learning Deep Learning & Scalable AI Applications
-- 🚀 Building AI & Web Projects
+- 🎓 3rd Year Computer Science Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Solving Data Structures & Algorithms using C++
+- 🌐 Learning Full Stack Development
+- 📚 Exploring Deep Learning & Modern AI
+- 🚀 Building AI and Web Applications
 
 ---
 
 # 🌐 Connect with Me
 
-<p align="center">
+<p>
 
 <a href="https://linkedin.com/in/kushal-p15">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,39 +49,136 @@ Computer Science Student | AI • ML • Web Development
 
 ## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" />
-</p>
+<table>
+<tr>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>
+<sub><b>C++</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=c" width="45"/><br>
+<sub><b>C</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br>
+<sub><b>Java</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=python" width="45"/><br>
+<sub><b>Python</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br>
+<sub><b>JavaScript</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+<table>
+<tr>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br>
+<sub><b>HTML5</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br>
+<sub><b>CSS3</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<table>
+<tr>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
+<sub><b>MySQL</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+<table>
+<tr>
+
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>
+<sub><b>TensorFlow</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 📊 Data Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-</p>
+<table>
+<tr>
 
-## 🛠️ Tools
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
+<sub><b>NumPy</b></sub>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
+<sub><b>Pandas</b></sub>
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Version Control
+
+<table>
+<tr>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br>
+<sub><b>Git</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+<sub><b>GitHub</b></sub>
+</td>
+
+<td width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
+<sub><b>VS Code</b></sub>
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -89,41 +186,43 @@ Computer Science Student | AI • ML • Web Development
 
 ## 🤖 AI Resume Analyzer
 
-AI-powered Resume Analyzer using NLP & Machine Learning.
-
-**Tech Stack:** Python • NLP • Machine Learning
+AI-powered Resume Analyzer that provides resume improvement suggestions using Machine Learning and NLP.
 
 ---
 
 ## 🎤 AI Mock Interview System
 
-AI-powered Interview Platform that evaluates candidate responses and provides feedback.
-
-**Tech Stack:** Python • AI • Machine Learning
+AI-powered interview simulator that evaluates responses and helps users prepare for technical interviews.
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/KushalPA15/KushalPA15/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<p>
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KushalPA15&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalPA15&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KushalPA15&theme=tokyonight"/>
 
 </p>
 
-<p align="center">
+<p>
 
-<img src="https://streak-stats.demolab.com?user=KushalPA15&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KushalPA15&theme=tokyonight"/>
+
+</p>
+
+<p>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalPA15&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -131,40 +230,32 @@ AI-powered Interview Platform that evaluates candidate responses and provides fe
 
 # 📈 Contribution Graph
 
-<p align="center">
+<p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KushalPA15&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KushalPA15&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 # 👀 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
 </p>
 
 ---
 
 # ✨ Quote of the Day
 
-<p align="center">
+<p>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-If you like my projects, consider giving them a ⭐
-
+<h3>
+⭐ Thanks for visiting my profile! If you like my work, consider giving my repositories a ⭐
 </h3>
