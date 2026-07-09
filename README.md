@@ -44,30 +44,31 @@ Computer Science Student | AI • ML • Web Development
 </p>
 
 ---
+
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
 
 <table>
 <tr>
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=cpp" width="45"/><br>
-<sub><b>C++</b></sub>
+<b>C++</b>
 </td>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=c" width="45"/><br>
-<sub><b>C</b></sub>
+<b>C</b>
 </td>
 
-<td  width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br>
-<sub><b>Python</b></sub>
+<b>Python</b>
 </td>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=js" width="45"/><br>
-<sub><b>JavaScript</b></sub>
+<b>JavaScript</b>
 </td>
 </tr>
 </table>
@@ -79,14 +80,14 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=html" width="45"/><br>
-<sub><b>HTML5</b></sub>
+<b>HTML5</b>
 </td>
 
-<td  width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br>
-<sub><b>CSS3</b></sub>
+<b>CSS3</b>
 </td>
 
 </tr>
@@ -99,9 +100,9 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
-<sub><b>MySQL</b></sub>
+<b>MySQL</b>
 </td>
 
 </tr>
@@ -114,9 +115,9 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/><br>
-<sub><b>TensorFlow</b></sub>
+<b>TensorFlow</b>
 </td>
 
 </tr>
@@ -129,14 +130,14 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>
-<sub><b>NumPy</b></sub>
+<b>NumPy</b>
 </td>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>
-<sub><b>Pandas</b></sub>
+<b>Pandas</b>
 </td>
 
 </tr>
@@ -149,23 +150,25 @@ Computer Science Student | AI • ML • Web Development
 <table>
 <tr>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=git" width="45"/><br>
-<sub><b>Git</b></sub>
+<b>Git</b>
 </td>
 
-<td width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
-<sub><b>GitHub</b></sub>
+<b>GitHub</b>
 </td>
 
-<td align="center" width="90">
+<td width="90" align="center">
 <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>
-<sub><b>VS Code</b></sub>
+<b>VS Code</b>
 </td>
 
 </tr>
 </table>
+
+---
 
 # 🚀 Featured Projects
 
@@ -173,9 +176,7 @@ Computer Science Student | AI • ML • Web Development
 
 > AI-powered Resume Analyzer using NLP & Machine Learning.
 
-### Tech Stack
-
-Python • NLP • Machine Learning
+**Tech Stack:** Python • NLP • Machine Learning
 
 ---
 
@@ -183,16 +184,14 @@ Python • NLP • Machine Learning
 
 > AI Interview Platform that evaluates candidate responses and provides feedback.
 
-### Tech Stack
-
-Python • AI • Machine Learning
+**Tech Stack:** Python • AI • Machine Learning
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+<img src="https://raw.githubusercontent.com/KushalPA15/KushalPA15/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -201,9 +200,9 @@ Python • AI • Machine Learning
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalPA15&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=KushalPA15&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KushalPA15&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KushalPA15&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -232,9 +231,7 @@ Python • AI • Machine Learning
 # 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=KushalPA15&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -242,17 +239,13 @@ Python • AI • Machine Learning
 # ✨ Quote of the Day
 
 <p align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </p>
 
 ---
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile! ⭐
-
+<br><br>
 If you like my projects, consider giving them a ⭐
-
 </h3>
