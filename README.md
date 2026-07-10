@@ -12,7 +12,7 @@ Computer Science Student • AI • Machine Learning • Web Development
 
 # 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student
+- 🎓 final Year Computer Science Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 💻 Solving Data Structures & Algorithms using C++
 - 🌐 Learning Full Stack Development
@@ -57,15 +57,6 @@ Computer Science Student • AI • Machine Learning • Web Development
 <sub><b>C++</b></sub>
 </td>
 
-<td width="90">
-<img src="https://skillicons.dev/icons?i=c" width="45"/><br>
-<sub><b>C</b></sub>
-</td>
-
-<td width="90">
-<img src="https://skillicons.dev/icons?i=java" width="45"/><br>
-<sub><b>Java</b></sub>
-</td>
 
 <td width="90">
 <img src="https://skillicons.dev/icons?i=python" width="45"/><br>
@@ -95,11 +86,6 @@ Computer Science Student • AI • Machine Learning • Web Development
 <td width="90">
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br>
 <sub><b>CSS3</b></sub>
-</td>
-
-<td width="90">
-<img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>
-<sub><b>Tailwind CSS</b></sub>
 </td>
 
 </tr>
